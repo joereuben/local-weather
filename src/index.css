@@ -16,7 +16,10 @@ body {
     #34495e);
     height: 100vh;
 }
-
+a.me{
+  color: #0cadf8;
+  text-decoration: none;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;

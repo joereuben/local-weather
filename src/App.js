@@ -121,7 +121,7 @@ function App() {
         
      </section>
      <div>
-      <code>developed by <a href="https://www.freecodecamp.org/reujoe" target="_blank" rel="noopener noreferrer">Joseph Amofa</a>  </code>
+      <code>developed by <a href="https://www.freecodecamp.org/reujoe" target="_blank" rel="noopener noreferrer" className='me'>Joseph Amofa</a>  </code>
      </div>
     </div>
   );
